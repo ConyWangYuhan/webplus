@@ -35,7 +35,7 @@ for(var i=0;i<mostright.length;i++){
 // 点击跳转
 for(pc = 0;pc<pic.length;pc++){
 	pic[pc].onclick = function (){
-		location.href = 'detail.html';
+		location.href = 'shoping.html';
 	}
 }
 // 吸顶
